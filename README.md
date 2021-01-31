@@ -1,4 +1,6 @@
-# 光影精灵
+# 光影精灵四hackintosh-EFI
+
+OC0.6.5
 
 适用于Big Sur 11.1
 
